@@ -1,0 +1,5 @@
+﻿# Dependencies for Agoda Hotel Scraper
+pandas
+requests
+selenium-wire
+openpyxl
