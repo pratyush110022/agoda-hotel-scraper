@@ -65,3 +65,7 @@ The script writes the workbook to the configured OUTPUT_FILE.
 - Search URL dates and location parameters are configuration values, not a guarantee of data availability.
 - Use browser automation and collected data only in ways permitted by the target site's terms and applicable policies.
 - Do not commit browser cookies, private session data, or credentials.
+
+## Synthetic sample data
+
+[`sample_synthetic_12_records.csv`](sample_synthetic_12_records.csv) contains **12 synthetic test records** with the output columns used by this scraper. The rows were generated for schema inspection and portfolio/demo purposes; they were not collected from the source website or API. Names and addresses are fictional, contact details and example.com links are placeholders, coordinates are illustrative, and any ratings/prices/amenities are not real or current. Do not use these records for navigation, operational decisions, or market/pricing analysis.
