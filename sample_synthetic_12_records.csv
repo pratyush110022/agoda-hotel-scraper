@@ -1,0 +1,13 @@
+Hotel ID,Hotel Name,Stars,Area,City,Latitude,Longitude,Google Maps,Review Score,Review Count,Price Per Night,Hotel URL
+SYN-H001,Sample Cedar Inn,3,Synthetic Sector 01,Bengaluru,12.9716,77.5946,"https://maps.google.com/?q=12.9716,77.5946",8.1,124,INR 3200,https://example.com/hotels/demo-01
+SYN-H002,Sample Lakeview Suites,4,Synthetic Sector 02,Mumbai,19.076,72.8777,"https://maps.google.com/?q=19.076,72.8777",8.4,238,INR 5400,https://example.com/hotels/demo-02
+SYN-H003,Sample Meadow House,3,Synthetic Sector 03,Pune,18.5204,73.8567,"https://maps.google.com/?q=18.5204,73.8567",7.8,96,INR 2800,https://example.com/hotels/demo-03
+SYN-H004,Sample Skyline Stay,4,Synthetic Sector 04,Hyderabad,17.385,78.4867,"https://maps.google.com/?q=17.385,78.4867",8.6,310,INR 4900,https://example.com/hotels/demo-04
+SYN-H005,Sample Garden Rooms,3,Synthetic Sector 05,Jaipur,26.9124,75.7873,"https://maps.google.com/?q=26.9124,75.7873",7.9,152,INR 2600,https://example.com/hotels/demo-05
+SYN-H006,Sample Pine Retreat,4,Synthetic Sector 06,Shimla,31.1048,77.1734,"https://maps.google.com/?q=31.1048,77.1734",8.7,201,INR 6100,https://example.com/hotels/demo-06
+SYN-H007,Sample Riverstone Hotel,3,Synthetic Sector 07,Kolkata,22.5726,88.3639,"https://maps.google.com/?q=22.5726,88.3639",7.7,88,INR 3000,https://example.com/hotels/demo-07
+SYN-H008,Sample Orchid Residency,4,Synthetic Sector 08,Chennai,13.0827,80.2707,"https://maps.google.com/?q=13.0827,80.2707",8.2,176,INR 4300,https://example.com/hotels/demo-08
+SYN-H009,Sample Harbor Lodge,3,Synthetic Sector 09,Kochi,9.9312,76.2673,"https://maps.google.com/?q=9.9312,76.2673",7.6,109,INR 2900,https://example.com/hotels/demo-09
+SYN-H010,Sample Amber Courtyard,5,Synthetic Sector 10,Udaipur,24.5854,73.7125,"https://maps.google.com/?q=24.5854,73.7125",9,332,INR 8200,https://example.com/hotels/demo-10
+SYN-H011,Sample Birch Corner,3,Synthetic Sector 11,Lucknow,26.8467,80.9462,"https://maps.google.com/?q=26.8467,80.9462",7.5,73,INR 2400,https://example.com/hotels/demo-11
+SYN-H012,Sample Cloud Terrace,4,Synthetic Sector 12,Patnitop,33.0815,75.3152,"https://maps.google.com/?q=33.0815,75.3152",8.5,187,INR 5700,https://example.com/hotels/demo-12
